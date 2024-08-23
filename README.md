@@ -18,3 +18,6 @@ Objective:
 
 • Creating a demonstration of security vulnerabilities like SQL injection, XSS, and insecure authentication directly in HTML and CSS is challenging because these vulnerabilities typically involve server-side processing and dynamic interactions.
 
+
+![Codetech Task-2](https://github.com/user-attachments/assets/e2983644-df78-4e79-af19-c47c3527d9a0)
+
